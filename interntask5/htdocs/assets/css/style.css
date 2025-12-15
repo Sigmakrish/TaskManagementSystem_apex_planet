@@ -1,0 +1,25 @@
+/* --------------------------------------------------------
+   Task Management System - Custom Styles
+   Author: Krishnashis Goswami
+--------------------------------------------------------- */
+
+body {
+    background: #f8f9fa;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.btn-custom {
+    padding: 10px 18px;
+    border-radius: 6px;
+}
+
+.table thead th {
+    background: #e9ecef;
+}
